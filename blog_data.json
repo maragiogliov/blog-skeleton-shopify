@@ -1,0 +1,526 @@
+[
+    {
+      "id": 1,
+      "type": "featured",
+      "imgSrc": "./assets/F215_Checkpoint_Charlie (1).jpg",
+      "category": "Travel",
+      "date": "2024-02-01",
+      "title": "10 things nobody told you about having a coffee shop",
+      "description": "Aut est officia eos qui. Odio aut modi similique voluptatibus est vero. Alias fuga praesentium Aut est officia eos qui. Odio aut modi similique voluptatibus est vero. Alias fuga praesentium."
+    },
+    {
+      "id": 2,
+      "type": "recent",
+      "imgSrc": "./assets/Sustainability_Photo (1).jpg ",
+      "category": "Lifestyle",
+      "date": "28-12-2023",
+      "title": "Sustainability: 1 million trees",
+      "description": "When we discuss sustainability at source we are talking about two different things. This page defines both environmental and economic sustainability at source and explains why we regard Specialty Coffee."
+    },
+    {
+      "id": 3,
+      "type": "recent",
+      "imgSrc": "./assets/grinding-cafe-at-home.webp",
+      "category": "Technology",
+      "date": "08-08-2023",
+      "title": "Grinding Coffee At Home",
+      "description": "When it comes to brewing great tasting coffee at home, picking your favourite freshly roasted coffee from our portfolio of Single Origin beans is just part of the puzzle."
+    },
+    {
+      "id": 4,
+      "type": "recent",
+      "imgSrc": "./assets/Daterra_Seedlings.jpg",
+      "category": "Technology",
+      "date": "24-03-2023",
+      "title": "Our Plot: A Sustainable Coffee Future",
+      "description": "Four years ago, innovative producer Daterra invited us to take ownership of 1 hectare of their estate. ‘Our Plot’ is a programme initiated to develop ideas that will elevate coffee."
+    },
+    {
+      "id": 5,
+      "type": "recent",
+      "imgSrc": "./assets/garreth-ethiopia.webp",
+      "category": "Health",
+      "date": "03-03-2023",
+      "title": "Origin Update Ethiopia: Visiting our Farm Partners",
+      "description": "Reconnecting after an unplanned break In November 2022, our head roaster Garreth headed to Jimma, the coffee growing region that is home to one of our closest Ethiopian farm partners."
+    },
+    {
+        "id": 6,
+        "type": "recent",
+        "imgSrc": "./assets/speciality-instant-coffee.webp",
+        "category": "Culture",
+        "date": "24-01-2023",
+        "title": "Specialty Instant Coffee",
+        "description": "We let so many people around the office try and honestly, nobody believed it was instant coffee... We were very surprised how it tasted Ales Pospisil, European Coffee Trip."
+      },
+      {
+        "id": 7,
+        "type": "recent",
+        "imgSrc": "./assets/ralf_old_roastery.webp",
+        "category": "Culture",
+        "date": "26-09-2022",
+        "title": "The Old Roastery",
+        "description": "Last week, we celebrated the tenth birthday of our location at Schönauser Allee 8 in Berlin: now fondly known as The Old Roastery. This was our second ever location."
+      },
+      {
+        "id": 8,
+        "type": "recent",
+        "imgSrc": "./assets/palma-opening.webp",
+        "category": "Culture",
+        "date": "08-09-2022",
+        "title": "We opened our first Café in Palma de Mallorca",
+        "description": "Every week coffee beans leave our roastery on a journey across the world, supplying partner cafés and coffee lovers with the same incredible beans we enjoy here in Berlin."
+      },
+      {
+        "id": 9,
+        "type": "recent",
+        "imgSrc": "./assets/visit-to-colombia.webp",
+        "category": "Culture",
+        "date": "05-08-2022",
+        "title": "A Visit to Colombia",
+        "description": "In July our Head Roaster Garreth was in Colombia to speak at the prestigious Producer Roaster Forum and visit some of the very best coffee producers across the country."
+      },
+      {
+        "id": 10,
+        "type": "recent",
+        "imgSrc": "./assets/garreth-ralf-roastery.webp",
+        "category": "Culture",
+        "date": "29-07-2022",
+        "title": "Take A Look At Our Next Masterpiece",
+        "description": "From the famous Lamastus Family Estates in Panama, we have just unveiled a very special coffee. This August our Masterpiece Subscribers will receive El Burro Geisha Washed."
+      },
+      {
+        "id": 11,
+        "type": "recent",
+        "imgSrc": "./assets/LaLa Berlin x Platte x The Barn.webp",
+        "category": "Culture",
+        "date": "03-06-2022",
+        "title": "LaLa Berlin x Platte x The Barn",
+        "description": "When Leyla - the founder of fashion house LALA Berlin - asked if we wanted to be part of her annual archive sale, we did not hesitate!"
+      },
+      {
+        "id": 12,
+        "type": "recent",
+        "imgSrc": "./assets/Mohamed Ali - Ethiopia Four years .webp",
+        "category": "Culture",
+        "date": "01-06-2022",
+        "title": "Sustainability Project at Origin",
+        "description": "Mohamed Ali - Ethiopia Four years ago, we have initiated a shift change in our Ethiopian Sourcing: While we previously bought from Cooperatives, we changed to direct farm relationships with"
+      },
+      {
+        "id": 13,
+        "type": "recent",
+        "imgSrc": "./assets/Paper & Tea x The Barn - 10 Years of Friendship.webp",
+        "category": "Culture",
+        "date": "01-06-2022",
+        "title": "Paper & Tea x The Barn - 10 Years of Friendship",
+        "description": "From farm to cup, The Barn and P&T are driven by a desire to continually explore the origin, special taste notes, and rarity of our coffee and tea."
+      },
+      {
+        "id": 14,
+        "type": "recent",
+        "imgSrc": "./assets/Plant Base Milk.webp",
+        "category": "Culture",
+        "date": "01-06-2022",
+        "title": "PLANT BASED MILK",
+        "description": "Today we are dropping the surcharge for plant-based milk in our Berlin Cafés. For good. 🌱🥛 Sustainability is a core value for us: We want more people to enjoy plant-based..."
+      },
+      {
+        "id": 15,
+        "type": "recent",
+        "imgSrc": "./assets/Berliner Weisse Redefined.webp",
+        "category": "Culture",
+        "date": "31-05-2022",
+        "title": "Berliner Weisse Redefined",
+        "description": "SCHNEEEULE X MIKKELLER X THE BARN Schneeeule is Berlin’s best kept beer secret no longer. An innocent “beer salon” is now the hottest kid on the block."
+      },
+      {
+        "id": 16,
+        "type": "recent",
+        "imgSrc": "./assets/Brew Guide Iced V60.webp",
+        "category": "Culture",
+        "date": "31-05-2022",
+        "title": "Brew Guide Iced V60",
+        "description": "GRIND COFFEE Grind 21.5g of freshly roasted Dambi Uddo (Guji Highlands, Ethiopia) on a medium grind setting. For most consistent ground and best brew results, we use the Comandante hand..."
+      },
+      {
+        "id": 17,
+        "type": "recent",
+        "imgSrc": "./assets/The Barn Forest.webp",
+        "category": "Culture",
+        "date": "29-05-2022",
+        "title": "The Barn Forest",
+        "description": "We are planting 40,000 native trees in Brazil Humanity must plant 1 trillion trees until 2030 to mitigate climate change. Be part of our Climate Mission that we run in..."
+      },
+      {
+        "id": 18,
+        "type": "recent",
+        "imgSrc": "./assets/Jake - head barista at the roastery  .webp",
+        "category": "Culture",
+        "date": "27-05-2022",
+        "title": "Brew Guide V60",
+        "description": "Jake - head barista at the roastery - is showing you how we brew our V60 filter coffees at THE BARN.."
+      },
+      {
+        "id": 19,
+        "type": "recent",
+        "imgSrc": "./assets/Founders Podcast - Coffee with April .webp",
+        "category": "Culture",
+        "date": "26-05-2022",
+        "title": "Founders Podcast - Coffee with April",
+        "description": "On the Coffee with April podcast series, Patrik Rolf from April Coffee Roasters in Copenhagen talks to entrepreneurs in the industry, discussing..."
+      },
+      {
+        "id": 20,
+        "type": "recent",
+        "imgSrc": "./assets/EARTH MONTH.webp",
+        "category": "Culture",
+        "date": "25-05-2022",
+        "title": "EARTH MONTH",
+        "description": "Ecological Sustainability and the careful treatment of our Environment are Core Values of our work. From the cultivation to the brewing of our coffees."
+      },
+      {
+        "id": 21,
+        "type": "recent",
+        "imgSrc": "./assets/Low Caf.webp",
+        "category": "Culture",
+        "date": "24-05-2022",
+        "title": "Low Caf",
+        "description": "Low Caffeine Coffee LEADING A TREND When we started our Low Caffeine Program three years ago, there was a lot of discussion in the coffee scene about this."
+      },
+      {
+        "id": 22,
+        "type": "recent",
+        "imgSrc": "./assets/Low Caf is our answer to decaf.webp",
+        "category": "Culture",
+        "date": "24-05-2022",
+        "title": "Low-Caf is Our Answer to Decaf",
+        "description": "Our philosophy is to present the clean flavours of the fields, highlighting terroir and the distinct taste profiles of each individual farme."
+      },
+      {
+        "id": 23,
+        "type": "recent",
+        "imgSrc": "./assets/From The Skilled Hands of Mayan Communities.jpeg",
+        "category": "Culture",
+        "date": "1-07-2020",
+        "title": "From The Skilled Hands of Mayan Communities",
+        "description": "EXPLORING NEW TERROIR The Chiapas region shares a border with Guatemala: Breathtaking volcanoes regulate the wind and moisture flows while also offering nutritious soil."
+      },
+      {
+        "id": 24,
+        "type": "recent",
+        "imgSrc": "./assets/Kenya Update.webp",
+        "category": "Culture",
+        "date": "08-10-2029",
+        "title": "Kenya Update",
+        "description": "Farm visits in January Each year we visit our coffee growers. We find these trips very important not only to show our face and to say hello."
+      },
+      {
+        "id": 25,
+        "type": "recent",
+        "imgSrc": "./assets/WUSH WUSH - The New Gesha.jpeg",
+        "category": "Culture",
+        "date": "29-07-2022",
+        "title": "WUSH WUSH - The New Gesha?",
+        "description": "A MUCH TALKED ABOUT VARIETAL Similar to Gesha, the Wush Wush varietal has its origin in Ethiopia. It made its way to South America a few decades ago."
+      },
+      {
+        "id": 26,
+        "type": "recent",
+        "imgSrc": "./assets/Interview- Boyce of Chania Estate.webp",
+        "category": "Interview",
+        "date": "16-06-2019",
+        "title": "Interview: Boyce of Chania Estate",
+        "description": "During World of Coffee 2019 we were lucky to be visited by Boyce Harries, owner of Chania Estate in Kenya. Boyce's incredible natural processed French Mission varietal was our feature..."
+      },
+      {
+        "id": 27,
+        "type": "recent",
+        "imgSrc": "./assets/Interview- Mauricio of Finca Himalaya.jpeg",
+        "category": "Interview",
+        "date": "16-06-2019",
+        "title": "Interview: Mauricio of Finca Himalaya",
+        "description": "During World of Coffee 2019 we hosted a cupping with our export partners Belco and some of the producers we work with - one of whom was Mauricio, owner of..."
+      },
+      {
+        "id": 28,
+        "type": "recent",
+        "imgSrc": "./assets/Ethiopian Update.jpeg",
+        "category": "Culture",
+        "date": "08-10-2018",
+        "title": "Ethiopian Update",
+        "description": "In January we visited our farm partners in Ethiopia to catch up and to have a first look at current harvest. Find out more on each farm update below. But..."
+      },
+      {
+        "id": 29,
+        "type": "recent",
+        "imgSrc": "./assets/Paradigm Shift- Yemen.webp",
+        "category": "Culture",
+        "date": "11-07-2018",
+        "title": "Paradigm Shift: Yemen",
+        "description": "The Birth Place of Coffee SHEBA - YEMEN - ETHIOPIA Sheba is a Kingdom mentioned in the Old Testament of the Hebrew Bible. Sources believe that it covered regions from..."
+      },
+      {
+        "id": 30,
+        "type": "recent",
+        "imgSrc": "./assets/OUR CAFE PARTNERS AROUND THE GLOBE.webp",
+        "category": "Culture",
+        "date": "11-07-2018",
+        "title": "OUR CAFE PARTNERS AROUND THE GLOBE",
+        "description": "We are proud partners of individual cafés that love coffee as much as we do."
+      },
+      {
+        "id": 31,
+        "type": "recent",
+        "imgSrc": "./assets/The Barn Coffee Capsules.webp",
+        "category": "Culture",
+        "date": "07-07-2018",
+        "title": "The Barn Coffee Capsules",
+        "description": "THE CAPSULES We do not make any compromises when it comes to our coffee qualities or being sustainable. And we did not have to make any concessions when it came..."
+      },
+      {
+        "id": 32,
+        "type": "recent",
+        "imgSrc": "./assets/The Mucilage Issue.webp",
+        "category": "Culture",
+        "date": "07-07-2018",
+        "title": "The Mucilage Issue",
+        "description": "Over the past years we have moved our coffee portfolio to more honey and natural processed coffees. There are two key reasons for this move. 1. Processing by our farm..."
+      },
+      {
+        "id": 33,
+        "type": "recent",
+        "imgSrc": "./assets/Farm Visit- Los Pirineos, El Salvador.webp",
+        "category": "Culture",
+        "date": "29-07-2022",
+        "title": "Farm Visit: Los Pirineos, El Salvador",
+        "description": "Coffee has been produced commercially in the country since the 1850s, and by the 1880s it was the fourth-largest producer in the world. It was around this time that Gilberto..."
+      },
+      {
+        "id": 34,
+        "type": "recent",
+        "imgSrc": "./assets/European Coffee Trip.webp",
+        "category": "Culture",
+        "date": "06-07-2018",
+        "title": "European Coffee Trip",
+        "description": "We had a nice long chat with Ales & Radek from European Coffee Trip a couple of weeks ago. Sometimes, a project initiated by a Roast Machine..."
+      },
+      {
+        "id": 35,
+        "type": "recent",
+        "imgSrc": "./assets/How to establish a Specialty Coffee Café in a new market.webp",
+        "category": "Culture",
+        "date": "06-07-2018",
+        "title": "How to establish a Specialty Coffee Café in a new market",
+        "description": "THE BARN has been doing pioneer work in Berlin since the early days. As one of the first speciality coffee shops in Europe, our Berlin cafe helped..."
+      },
+      {
+        "id": 36,
+        "type": "recent",
+        "imgSrc": "./assets/Best Specialty Coffee Roaster in Europe and Middle East.webp",
+        "category": "Culture",
+        "date": "05-07-2018",
+        "title": "The Barn is The First German Coffee Roasters to Receive The Award Best Specialty Coffee Roaster in Europe and Middle East",
+        "description": "Once a year, the Who-is-Who of the international coffee world are gathering at the prestigious Allegra Coffee Symposium to celebrate the international Coffee Awards. Several months prior to the Award..."
+      },
+      {
+        "id": 37,
+        "type": "recent",
+        "imgSrc": "./assets/The Highlands of Peru.webp",
+        "category": "Culture",
+        "date": "05-07-2018",
+        "title": "The Highlands of Peru",
+        "description": "We have started buying coffees from Peru in 2020 and want to highlight our two key farm partners in this blog post. AROMAS DEL VALLE Peru´s highlands offer great growing..."
+      },
+      {
+        "id": 38,
+        "type": "recent",
+        "imgSrc": "./assets/Hand-made Coffee From Women.webp",
+        "category": "Culture",
+        "date": "04-07-2018",
+        "title": "Amaca - 100% Hand-made Coffee From Women",
+        "description": "In the southwest Colombian slopes of El Tambo, Cauca, since 1999 there is a Women Farmer Association, called AMACA, that supports the work of 140 active women coffee producers..."
+      },
+      {
+        "id": 39,
+        "type": "recent",
+        "imgSrc": "./assets/Approaching Sustainability.webp",
+        "category": "Culture",
+        "date": "04-07-2018 ",
+        "title": "Approaching Sustainability",
+        "description": "This season, we have collectively launched eight different coffees, with many taking origin in Brazil and Columbia. One of the driving factors of the Barn is to serve memorable tasting..."
+      },
+      {
+        "id": 40,
+        "type": "recent",
+        "imgSrc": "./assets/After we roast.webp",
+        "category": "Culture",
+        "date": "04-07-2018",
+        "title": "After We Roast",
+        "description": "When we roast we are not just turning those little green beans brown.There are a great number of chemical reactions that happen within the roasting machine during this time..."
+      },
+      {
+        "id": 41,
+        "type": "recent",
+        "imgSrc": "./assets/Looking for the Perfect Acidity.webp",
+        "category": "Culture",
+        "date": "04-07-2018",
+        "title": "Looking for the Perfect Acidity",
+        "description": "Even though I come from Brazil and drink coffee for a while, I’m quite new in the Specialty Coffee world."
+      },
+      {
+        "id": 42,
+        "type": "recent",
+        "imgSrc": "./assets/Quality is our aim -Julian Palomino.webp",
+        "category": "Culture",
+        "date": "30-06-2018",
+        "title": "Quality is our aim - Julian Palomino",
+        "description": "Thanks to their recommendations, we modified several stages of the process. For instance, we are picking purple beans only instead of red beans for Castillo variety."
+      },
+      {
+        "id": 43,
+        "type": "recent",
+        "imgSrc": "./assets/Dick Taylor for The Barn.webp",
+        "category": "Culture",
+        "date": "17-06-2018",
+        "title": "Dick Taylor for The Barn",
+        "description": "OUR COFFEE CHOCOLATE Dick Taylor are based in California. What we do with coffee - they do with chocolate. Using Dick Taylors drinking chocolate in all our cafés was a..."
+      },
+      {
+        "id": 44,
+        "type": "recent",
+        "imgSrc": "./assets/It Is All About Flavour.webp",
+        "category": "Culture",
+        "date": "17-06-2018",
+        "title": "It Is All About Flavour",
+        "description": "When I think about coffee, the first thing that comes to my mind is its aroma: The delicious smell that comes out when I’m grinding coffee or..."
+      },
+      {
+        "id": 45,
+        "type": "recent",
+        "imgSrc": "./assets/Umami - Going Deep Into The Senses.webp",
+        "category": "Culture",
+        "date": "15-06-2017",
+        "title": "Umami - Going Deep Into The Senses",
+        "description": "As part of our satellite program for the last Berlin Coffee Festival, we designed a specialised sensory class. The idea for the workshop was based all around the concept of..."
+      },
+      {
+        "id": 46,
+        "type": "recent",
+        "imgSrc": "./assets/The Value in your Cup of Coffee.webp",
+        "category": "Culture",
+        "date": "10-06-2018",
+        "title": "The Value in your Cup of Coffee",
+        "description": "The cup of coffee that you buy from us is different. We wanted to share with you, what the difference is between ours and a regular cup of coffee."
+      },
+      {
+        "id": 47,
+        "type": "recent",
+        "imgSrc": "./assets/Anaerobic Processing in Costa Rica.webp",
+        "category": "Culture",
+        "date": "10-06-2018",
+        "title": "Anaerobic Processing in Costa Rica",
+        "description": "We have been watching the progress of this processing form and never felt that the flavours were clean enough to present the flavours of the field. While we get excited..."
+      },
+      {
+        "id": 48,
+        "type": "recent",
+        "imgSrc": "./assets/What makes our coffee beans so different.webp",
+        "category": "Culture",
+        "date": "10-06-2018",
+        "title": "What makes our coffee beans so different?",
+        "description": "Wir haben uns mit Frederik von #StraightLoud über Kaffee unterhalten. Viel Spass beim Interview. Dieses Interview ist nur auf Deutsch verfügbar."
+      },
+      {
+        "id": 49,
+        "type": "recent",
+        "imgSrc": "./assets/Extracting Coffee is Actually Quite Simple.webp",
+        "category": "Culture",
+        "date": "01-01-2017",
+        "title": "Extracting Coffee is Actually Quite Simple",
+        "description": "Sam Sgambellone is a leading barista and coffee expert from Australia. He is the founder of Coffee Kaizen and long-term Director at Mecca Coffee."
+      },
+      {
+        "id": 50,
+        "type": "recent",
+        "imgSrc": "./assets/CHEMEX.webp",
+        "category": "Culture",
+        "date": "22-09-2017",
+        "title": "CHEMEX",
+        "description": "BREW GUIDE PREPARATION First, boil your filtered water to 95°C. Grind your coffee beans at a medium to coarse setting. Fold your filter paper and place it at the top..."
+      },
+      {
+        "id": 51,
+        "type": "recent",
+        "imgSrc": "./assets/AEROPRESS.webp",
+        "category": "Culture",
+        "date": "22-09-2018",
+        "title": "AEROPRESS",
+        "description": "BREW GUIDE EQUIPMENT & PREPARATION Make sure you have all your equipment within reach. Choose your water well (filtered /bottled) and boil your kettle to 94°C. Grind your coffee just..."
+      },
+      {
+        "id": 52,
+        "type": "recent",
+        "imgSrc": "./assets/V60 DRIP.webp",
+        "category": "Culture",
+        "date": "22-09-2017",
+        "title": "V60 DRIP",
+        "description": "BREW GUIDE EQUIPMENT & PREPARATION Make sure you have all your equipment within reach. Choose your water well (filtered/bottled) and boil your kettle to 94°C. Grind your coffee just before..."
+      },
+      {
+        "id": 53,
+        "type": "recent",
+        "imgSrc": "./assets/Inside Los Pirineos.webp",
+        "category": "Culture",
+        "date": "07-07-2017",
+        "title": "Inside Los Pirineos",
+        "description": " Los Pirineos is one of the most advanced coffee farms in El Salvador. We had some facetime with Gilberto Baraona about his approach to quality, sustainability and working with some..."
+      },
+      {
+        "id": 54,
+        "type": "recent",
+        "imgSrc": "./assets/We Filter Coffee Not People.webp",
+        "category": "Culture",
+        "date": "05-07-2017",
+        "title": "We Filter Coffee Not People",
+        "description": "David Salinas creates beautiful products that allow us to really express our love for coffee. Together with Brett Cannon he built the brand Department of Brewology, based in Austin, Texas..."
+      },
+      {
+        "id": 55,
+        "type": "recent",
+        "imgSrc": "./assets/Berlin Coffee Festival.webp",
+        "category": "Culture",
+        "date": "05-07-2017",
+        "title": "Berlin Coffee Festival: an Experience That Matters",
+        "description": "Already in its fourth edition, the festival brings together people from the whole supply..."
+      },
+      {
+        "id": 56,
+        "type": "recent",
+        "imgSrc": "./assets/Water Treatment Sustainability Project 2:2 in Brazil.webp",
+        "category": "Culture",
+        "date": "05-07-2017",
+        "title": "Water Treatment Sustainability Project 2/2 in Brazil",
+        "description": "This is part two of our update on the Water Treatment Sustainability Project - one of the first sustainability projects we have been directly involved in. This latest update on..."
+      },
+      {
+        "id": 57,
+        "type": "recent",
+        "imgSrc": "./assets/Water Treatment Sustainability Project 1:2 in Brazil.webp",
+        "category": "Culture",
+        "date": "05-07-2017",
+        "title": "Water Treatment Sustainability Project 1/2 in Brazil",
+        "description": "Fazenda Ambiental Fortaleza (FAF) is a coffee farm, research centre, and development lab in Brazil, owned and operated by Sylvia and Marcos Croce, alongside their son Felipe."
+      },
+      {
+        "id": 58,
+        "type": "recent",
+        "imgSrc": "./assets/Ethiopian Season 2017.jpeg",
+        "category": "Culture",
+        "date": "01-07-2017",
+        "title": "Ethiopian Season 2017",
+        "description": "Ethiopia is often referred to as the birthplace of coffee. Plants have never been cross-bred and grow wild in pristine forest. This makes them strong and disease resistant"
+      }
+
+  ]
+  
