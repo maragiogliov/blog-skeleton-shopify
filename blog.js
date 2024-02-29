@@ -9,10 +9,12 @@ fetch('blog_data.json')
       articleElement.innerHTML = `
         <img src="${article.imgSrc}" class="${article.type === 'featured' ? 'featured-image' : 'recent-image'}">
         <hr>
+        
         <section class="${article.type}-category-date-container">
             <h4>${article.category}</h4>
             <h4>${article.date}</h4>
         </section>
+
         <section class="${article.type}-title-description-container">
             <h2>${article.title}</h2>
             <p>${article.description}</p>
@@ -23,7 +25,7 @@ fetch('blog_data.json')
         featuredContainer.appendChild(articleElement);
       } else if (article.type === 'recent') {
         recentContainer.appendChild(articleElement);
-      }
+      } 
       // Add an else if or else block if you have a standard or other types of articles
     });
   })
