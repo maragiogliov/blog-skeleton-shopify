@@ -8,7 +8,7 @@
 
     /* Light mode colors */
     --background-color:white;
-    --text-color:#1a1a1a;
+    --text-color:#1a1a1a99;
     --darkest-color-type: rgb(31, 31, 31);
     --medium-color-type: rgb(45, 45, 45);
     --clear-color-type: rgb(155, 155, 155);
