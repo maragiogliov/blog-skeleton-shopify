@@ -6,6 +6,16 @@
     --medium-font-size: 22px;
     --small-font-size: 14px;
 
+    /* Light mode colors */
+    --background-color:white;
+    --text-color:#1a1a1a;
+    --darkest-color-type: rgb(31, 31, 31);
+    --medium-color-type: rgb(45, 45, 45);
+    --clear-color-type: rgb(155, 155, 155);
+
+    /* Dark mode colors */
+    --background-color-dark:#161419;
+    --text-color-dark:#dbdbdb;
     --darkest-color-type: rgb(31, 31, 31);
     --medium-color-type: rgb(45, 45, 45);
     --clear-color-type: rgb(155, 155, 155);
@@ -18,17 +28,51 @@
     --padding-medium-size:2rem;
     --padding-small-size:1rem;
 
-}
-body{
-    padding: 0px;
-    margin:0px;
-    font-family: 'Sentient-Regular';
+    --font-primary: 'Sentient-Regular';
+    --font-secondary: 'Inter', 'sans-serif';
+
 }
 header{
-    width: 100vw;
+    background-color: red;
     height: 4rem;
-    background-color: var(--darkest-color-type);
+    width: 100%;
 }
+body.dark-mode {
+    --background-color: var(--background-color-dark); 
+    --text-color: var(--text-color-dark); 
+}
+body {
+    background-color: var(--background-color);
+    color: var(--text-color); /* Ensures text color changes based on mode */
+}
+
+body.dark-mode h1 {
+    color: var(--text-color-dark);
+}
+
+h1{
+    color:var(--text-color);
+    font-family:var(--font-primary)
+}
+
+h2{
+    font-family:var(--font-primary);    
+}
+h3{
+    font-family:var(--font-primary);  
+}
+h4{
+    font-family: var(--font-secondary);
+}
+p{
+    font-family: var(--font-primary);
+}
+
+
+
+
+
+
 .title-container{
     padding-top:var(--padding-medium-size);
     padding-bottom: var(--padding-medium-size);
@@ -36,6 +80,7 @@ header{
 .title-container h1{
     padding:0px;
     margin:0px;
+    font-family: var(--font-primary);
     font-size: var(--big-font-size);
 }
 .master-container{

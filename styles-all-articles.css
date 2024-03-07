@@ -19,22 +19,23 @@
     margin:0px;
     color:var(--clear-color-type);
 }
-.articles-category-date-container h4{
+h2{
+    padding:0px;
+    margin:0px;
+    font-size: var(--medium-font-size);
+
+}
+h4{
     padding:0px;
     margin:0px;
     font-size: var(--small-font-size);
-    font-family:  "Inter", sans-serif;
+    font-family: var(--font-secondary);
     font-weight: 400;
     letter-spacing: -0.16px;
     line-height: 24px;
 }
-.articles-title-description-container h2{
-    padding:0px;
-    margin:0px;
-    font-size: var(--medium-font-size);
-    color:var(--darkest-color-type);
-}
-.articles-title-description-container p{
+
+p{
     padding-top:var(--padding-small-size);
     margin:0px;
     font-size:  var(--small-font-size);
@@ -55,7 +56,7 @@
 
     .all-articles{
         display: grid;
-        grid-template-columns: 3fr 3fr 3fr 3fr ; /* Adjust the column sizes as needed */
+        grid-template-columns: 3fr 3fr 3fr ; /* Adjust the column sizes as needed */
         gap: 20px;
         margin: 0 auto;
         width: 100%;

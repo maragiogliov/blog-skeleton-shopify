@@ -14,7 +14,7 @@ fetch('blog_data.json')
             <h4>${article.category}</h4>
             <h4>${article.date}</h4>
         </section>
-
+        <br/>
         <section class="${article.type}-title-description-container">
             <h2>${article.title}</h2>
             <p>${article.description}</p>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles-header.css">
+    <link rel="stylesheet" href="styles-all-articles.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="master-container">
+        <div id="header-placeholder"></div>
+
+        <div class="grid-container-all">
+            <article class="all-articles" id="articles-container">
+                <!-- Articles will be dynamically inserted here by blog.js -->
+            </article>
+        </div>        
+    </div>
+    <script src="light_dark_mode_logic.js"></script>
+    <script src="renderAllArticles.js"></script>
+    <script src="loadComponents.js"></script> <!-- Ensure this script is included -->
+</body>
+</html>

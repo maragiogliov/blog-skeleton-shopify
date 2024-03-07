@@ -7,6 +7,8 @@
 
     <link rel="stylesheet" href="styles-featured-articles.css">
     <link rel="stylesheet" href="styles-recent-articles.css">
+    <link rel="stylesheet" href="styles-header.css">
+
     <link rel="stylesheet" href="styles-all-articles.css">
 
 
@@ -16,11 +18,18 @@
     <title>Welcome to The Barn Blog</title>
 </head>
 <body>
+
+
+    
+    
     <div class="master-container">
+        <div id="header-placeholder"></div>
+
         <section class="title-container">
             <h1>Welcome to The Barn Blog</h1>
             <h1>We write about beans, farmers, and coffee</h1>
             <hr>
+
         </section>
     
         <div class="grid-container">
@@ -30,24 +39,18 @@
             </article>
           
             <!-- Recent articles container -->
+            
             <article class="recent">
                 <!-- Articles will be dynamically inserted here by blog.js -->
             </article>
 
           
-            
         </div>
 
-        
-        <div class="grid-container-all">
-            <article class="all-articles" id="articles-container">
-                <!-- Articles will be dynamically inserted here by blog.js -->
-            </article>
-        </div>
-        
+    
     </div>
-
-    <script src="renderAllArticles.js"></script>
     <script src="blog.js"></script>
+    <script src="loadComponents.js"></script>
 </body>
 </html>
+    

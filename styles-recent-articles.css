@@ -13,22 +13,22 @@
     margin:0px;
     color:var(--clear-color-type);
 }
-.recent-category-date-container h4{
+ h4{
     padding:0px;
     margin:0px;
     font-size: var(--small-font-size);
-    font-family:  "Inter", sans-serif;
+    font-family: var(--font-secondary);
     font-weight: 400;
     letter-spacing: -0.16px;
     line-height: 24px;
 }
-.recent-title-description-container h2{
+h2{
     padding:0px;
     margin:0px;
     font-size: var(--medium-font-size);
-    color:var(--darkest-color-type);
+
 }
-.recent-title-description-container p{
+p{
     padding-top:var(--padding-small-size);
     margin:0px;
     font-size:  var(--small-font-size);

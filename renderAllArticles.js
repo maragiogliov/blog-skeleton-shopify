@@ -11,6 +11,7 @@ function renderArticles(data) {
           <h4>${article.category}</h4>
           <h4>${article.date}</h4>
         </section>
+        <br/>
 
         <section class="articles-title-description-container"> 
           <h2>${article.title}</h2>
