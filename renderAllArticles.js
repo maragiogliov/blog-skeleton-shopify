@@ -2,10 +2,11 @@ function renderArticles(data) {
     const container = document.getElementById('articles-container'); // Adjust this ID to match your HTML container's ID
   
     data.forEach(article => {
-      const articleElement = document.createElement('section');
+      const articleElement = document.createElement('article');
       articleElement.classList.add('article');
       articleElement.innerHTML = `
         <img src="${article.imgSrc}" alt="${article.title}" class="all-articles-image">
+        <hr>
 
         <section class="articles-category-date-container"> 
           <h4>${article.category}</h4>

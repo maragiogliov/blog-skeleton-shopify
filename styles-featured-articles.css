@@ -7,6 +7,16 @@
 .featured article {
     height: auto;
     margin-bottom: var(--margin-big-size) ;
+
+}
+.featured article {
+    height: auto;
+    margin-bottom: var(--margin-big-size);
+    transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+.featured article:hover {
+    transform: translateY(-10px); /* Adjust the value as needed */
 }
 
 .featured-image{

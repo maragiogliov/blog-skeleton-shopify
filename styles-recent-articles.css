@@ -4,6 +4,16 @@
     object-fit: cover;
     border-radius: 7px;
 }
+
+.recent article {
+    height: auto;
+    margin-bottom: var(--margin-big-size);
+    transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+.recent article:hover {
+    transform: translateY(-10px); /* Adjust the value as needed */
+}
 .recent-category-date-container{
     display: flex;
     flex-direction: row;

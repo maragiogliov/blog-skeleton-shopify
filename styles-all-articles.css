@@ -4,6 +4,15 @@
     width: 100%;
     margin-top: var(--margin-big-size);
 }
+
+
+.all-articles article {
+    transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+.all-articles article:hover {
+    transform: translateY(-10px); /* Adjust the value as needed */
+}
 .all-articles-image{
     width: 100%;
     height: 210px;
