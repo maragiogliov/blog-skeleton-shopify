@@ -13,17 +13,30 @@ function loadComponent(componentUrl, elementId, callback) {
     });
 }
 
-// Function to initialize the dark mode toggle functionality
+function applyTheme() {
+  // Check for saved theme preference in local storage
+  const theme = localStorage.getItem('theme');
+  if (theme) {
+    document.body.classList.toggle('dark-mode', theme === 'dark');
+  }
+}
+
 function initializeDarkModeToggle() {
+  applyTheme(); // Apply saved theme immediately upon initialization
+
   const modeSwitcher = document.getElementById('modeSwitcher');
   if (modeSwitcher) {
     modeSwitcher.addEventListener('click', function() {
       document.body.classList.toggle('dark-mode');
+      // Save the new theme state to local storage
+      const isDarkMode = document.body.classList.contains('dark-mode');
+      localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
     });
   } else {
     console.error('Dark mode switcher not found');
   }
 }
+
 
 // Load the header component and initialize any related functionality
 loadComponent('header.html', 'header-placeholder', initializeDarkModeToggle);
