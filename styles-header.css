@@ -5,8 +5,15 @@
     background-color: var(--background-color); /* Use your theme color */
     box-shadow: 0px  1px 0px  0px var(--text-color); /* Subtle shadow for depth */
     margin-bottom: 6rem;
+    flex-wrap: nowrap; /* Prevent items from wrapping */
+    overflow-x: auto; /* Enable horizontal scrolling */
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on touch devices */
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
 }
 
+.header-nav::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for WebKit browsers */
+}
 
 .nav-btn {
     background-color: transparent; /* Button background */
@@ -16,7 +23,7 @@
     font-family: var(--font-secondary);
     cursor: pointer;
     margin-right: 1rem;
-  
+    white-space: nowrap; /* Ensure button text does not wrap */
 }
 
 .nav-btn:hover, .nav-btn:focus {
@@ -30,9 +37,8 @@
     font-size: 0.8rem;
     border:none;
     cursor: pointer;
-
-
 }
+
 #modeSwitcher:hover, #modeSwitcher:focus {
     border-bottom: 2px solid var(--text-color);
 }
@@ -40,10 +46,10 @@
 /* Responsive adjustments for smaller screens */
 @media (max-width: 490px) {
     .header-nav {
-        flex-direction: column; /* Stack buttons vertically on small screens */
+        justify-content: flex-start; /* Adjust if necessary for small screens */
     }
 
     .nav-btn {
-        margin-bottom: 0.5rem; /* Add space between vertically stacked buttons */
+        margin-bottom: 0; /* Reset bottom margin for horizontal layout */
     }
 }
