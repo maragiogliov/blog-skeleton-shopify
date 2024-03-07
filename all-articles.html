@@ -4,22 +4,41 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="styles-header.css">
+
+    <link rel="stylesheet" href="styles-featured-articles.css">
+    <link rel="stylesheet" href="styles-recent-articles.css">
     <link rel="stylesheet" href="styles-all-articles.css">
-    <title>Document</title>
+
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Welcome to The Barn Blog</title>
 </head>
 <body>
+
+
+    
+    
     <div class="master-container">
         <div id="header-placeholder"></div>
+
+   
+    
 
         <div class="grid-container-all">
             <article class="all-articles" id="articles-container">
                 <!-- Articles will be dynamically inserted here by blog.js -->
             </article>
-        </div>        
+        </div> 
+
+    
     </div>
-    <script src="light_dark_mode_logic.js"></script>
+    <script src="blog.js"></script>
+    <script src="loadComponents.js"></script>
     <script src="renderAllArticles.js"></script>
-    <script src="loadComponents.js"></script> <!-- Ensure this script is included -->
+
 </body>
 </html>
+    
